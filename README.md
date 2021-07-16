@@ -1,10 +1,8 @@
 # POTENTIAL-EMPLOYERS-ONLY-
 This contains links to private gists of school project code that I can't allow to be searchable
 
-
-
-This is a file containing links to school project files that I can't post publicly to avoid potential cheating from other classmates. This was discussed as an acceptable solution
-with the faculty.
+I can't post them publicly due to potential cheating from other classmates. This was discussed as an acceptable solution
+with the faculty instead.
 
 C++ Projects:
 
