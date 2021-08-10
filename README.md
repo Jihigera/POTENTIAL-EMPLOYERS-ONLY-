@@ -19,4 +19,4 @@ C++ Projects:
   
  4. [Directed Graph](https://gist.github.com/Jihigera/71f8aa8440d681e7b8590b774e4b2261): This is a template for a directed graph containing a depth first traversal and dijkstra's
   algorithm to find the shortest paths from any vertex to any other vertex in the graph.
-  Click this [link](https://gist.github.com/Jihigera/71f8aa8440d681e7b8590b774e4b2261) to view my Hash table template.
+  Click this [link](https://gist.github.com/Jihigera/71f8aa8440d681e7b8590b774e4b2261) to view my Directed Graph template.
